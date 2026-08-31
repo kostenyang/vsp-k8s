@@ -1,0 +1,5 @@
+*.log
+*.tmp
+kubeconfig*
+*kubeconfig.yaml
+.DS_Store
